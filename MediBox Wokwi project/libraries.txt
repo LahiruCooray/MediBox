@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+
+Adafruit SSD1306
+DHT sensor library for ESPx
+ESP32Servo
+NTPClient
+PubSubClient
+Adafruit GFX Library
